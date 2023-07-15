@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Navbar, Billing, Business, Button, CTA, CardDeal, Clients, FeedbackCard, Footer, GetStarted, Hero, Stats, Testimonials } from "./Components"
+import { Navbar, Billing, Business, Button, CTA, CardDeal, Clients, FeedbackCard, Footer, GetStarted, Hero, Stats, Testimonials } from "./components"
 import styles from './style'
 const App = () =>
 {
